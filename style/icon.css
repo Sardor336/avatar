@@ -1,0 +1,45 @@
+.icon_films::before{
+    content: '\f008';
+    font-family: var(--font_I);
+    font-weight: 300;
+    color: var(--text);
+}
+
+.icon_play::before{
+    content: '\f04b';
+    font-family: var(--font_I);
+    font-weight: 900;
+    color: #fff;
+    position: absolute;
+}
+.icon_play::after{
+    content: '\10f04b';
+    font-family: var(--font_I);
+    font-weight: 900;
+    color: #fff;
+    opacity: 0.5;
+    /* margin: 12px; */
+}
+
+.icon_menu {
+    text-decoration: none;
+    display: none;
+}
+
+
+.icon_menu::before {
+    content: '\f142';
+    font-family: var(--font_I);
+    font-weight: 900;
+    font-size: 42px;
+    color: blue;
+    position: absolute;
+}
+
+.icon_menu::after {
+    content: '\10f142'; 
+    font-family: var(--font_I);
+    font-weight: 900;  
+    font-size: 42px; 
+    color: blueviolet;
+}

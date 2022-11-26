@@ -1,0 +1,42 @@
+@font-face {
+font-family: 'Comfortaa';
+src: url(../font/Comfortaa-Regular.ttf);
+font-weight: 400;
+}
+@font-face {
+font-family: 'Comfortaa';
+src: url(../font/Comfortaa-Bold.ttf);
+font-weight: 700;
+}
+@font-face {
+font-family: 'Monserrat';
+src: url(../font/Montserrat-Regular.ttf);
+font-weight: 400;
+}
+@font-face {
+    font-family: 'Monserrat';
+    src: url(../font/Montserrat-Bold.ttf);
+    font-weight: 700;
+    }
+
+@font-face {
+     font-family: 'Roboto';
+     src: url(../font/Roboto-Regular.ttf);
+     font-weight: 400;
+        }
+@font-face {
+        font-family: 'Roboto';
+        src: url(../font/Roboto-Medium.ttf);
+        font-weight: 500;
+            }
+
+@font-face{
+    font-family: 'fontawesome';
+    src: url(../font/fontawesome5/fa-light-300.ttf);
+    font-weight: 300;
+}
+@font-face{
+    font-family: 'fontawesome';
+    src: url(../font/fontawesome5/fa-duotone-900.ttf);
+    font-weight: 900;
+}
